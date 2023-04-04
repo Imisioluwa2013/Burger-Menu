@@ -1,0 +1,25 @@
+.meatburger{
+    float: left;
+    color: red;
+    cursor: pointer;
+    }
+
+.menu:hover {
+  background-color:  rgb(231, 231, 231);
+}
+
+.lorem{
+    float: left;
+    color: black;
+}
+
+div{
+    float: left;
+}
+
+.burger{
+    color: red;
+    width: 100px;
+    height: 50px;
+    border-color: red;
+}
